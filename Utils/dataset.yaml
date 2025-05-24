@@ -1,0 +1,6 @@
+path: /home/project/dataset
+train: images/train
+val: images/val
+kpt_shape: [4, 3]
+nc: 3
+names: {0: Gate1, 1: Gate2, 2: Gate3}
