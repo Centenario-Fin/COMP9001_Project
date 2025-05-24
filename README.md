@@ -1,3 +1,7 @@
+# Check the zip file
+Because the upload number of file limit, I can only upload few photos which is not enough for tarining model (especially few label) 
+So you need to download the dataset.zip and unfold it to the project directory like the png shows
+
 # dependency
 ultralytics
 numpy
