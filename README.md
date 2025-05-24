@@ -23,3 +23,6 @@ THE DEFAULT PREDICT PYTHON FILE PATH IS TOWARDS TO MY MODEL!
 IF you wnat to just use my pretrained model, just go to the project file and run: python predit_yolo.python
 But if you want to use your model, check the model you train in Utils/runs and get the folder name(in pretrained model is 'Yolov8n')
 and run python predit_yolo.py <your_folder>
+
+# Contact
+If you are interested in the project or want to do some other interesting ML/DL/RL project, please contact me at jzh0544@uni.sydney.edu.au :)
